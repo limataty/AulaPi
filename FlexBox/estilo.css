@@ -59,15 +59,15 @@ h1 {
     display: flex;
     justify-content: space-around;
 }
-.container-6 {
+.container6 {
     display: flex;
     justify-content: space-evenly; 
 }
-.container-7 {
+.container7 {
     display: flex;
     flex-direction: column-reverse;
 }
-.container-8 {
+.container8 {
     display: flex;
     flex-direction: row-reverse;
     justify-content: left 
